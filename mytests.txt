@@ -59,3 +59,14 @@ DOB = 26/01/2006 ; email = ayush6test.2022@gmail.com ; Mobile = 4567890123;
 Nationality = Indian ; Address1 = C-406, ithum tower ; Address2 = Sector-62 ; 
 City = Faridabad ; Postal Code = 201006 ; State = Haryana ; Singapore ; Pin = 456123
 )
+
+my branch
+
+
+(
+nric number = wowtest6; 
+salutation = Mr. ; firstname = swati ; lastname = gupta; Gender = Female ; 
+DOB = 26/01/2006 ; email = ayush6test.2022@gmail.com ; Mobile = 4567890123; 
+Nationality = Indian ; Address1 = C-406, ithum tower ; Address2 = Sector-62 ; 
+City = Faridabad ; Postal Code = 201006 ; State = Haryana ; Singapore ; Pin = 456123
+)
