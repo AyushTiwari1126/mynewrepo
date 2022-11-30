@@ -1,0 +1,61 @@
+(
+nric number = ayushtest2611; 
+salutation = Mr. ; firstname = ayush ; lastname = tiwari ; Gender = male ; 
+DOB = 26/06/2000 ; email = ayush.26tiwari@gmail.com ; Mobile = 9958338012; 
+Nationality = Indian ; Address1 = B-14 ; Address2 = Mariam Nagar ; 
+City = Ghaziabad; Postal Code = 201001 ; State = Uttar Pradesh; Singapore ; Pin = 261126
+)
+
+
+(
+nric number = wowtest1; 
+salutation = Mr. ; firstname = amit ; lastname = kumar ; Gender = male ; 
+DOB = 21/07/2001 ; email = ayush1test.2022@gmail.com ; Mobile = 9012345678; 
+Nationality = Indian ; Address1 = C-401, ithum tower ; Address2 = Sector-62 ; 
+City = Gurgaon ; Postal Code = 201001 ; State = Haryana ; Singapore ; Pin = 901678
+)
+
+
+(
+nric number = wowtest2; 
+salutation = Mr. ; firstname = bhupendra ; lastname = rao ; Gender = male ; 
+DOB = 22/03/2002 ; email = ayush2test.2022@gmail.com ; Mobile = 8901234567; 
+Nationality = Indian ; Address1 = C-402, ithum tower ; Address2 = Sector-62 ; 
+City = Ghaziabad ; Postal Code = 201002 ; State = UttarPradesh; Singapore ; Pin = 890567
+)
+
+
+(
+nric number = wowtest3; 
+salutation = Mr. ; firstname = rupali ; lastname = bisht ; Gender = Female ; 
+DOB = 23/08/2003 ; email = ayush3test.2022@gmail.com ; Mobile = 7890123456; 
+Nationality = Indian ; Address1 = C-403, ithum tower ; Address2 = Sector-62 ; 
+City = Patna ; Postal Code = 201001 ; State = Bihar ; Singapore ; Pin = 789456
+)
+
+
+(
+nric number = wowtest4; 
+salutation = Mr. ; firstname = Kamini ; lastname = Dutta ; Gender = Female ; 
+DOB = 24/11/2004 ; email = ayush4test.2022@gmail.com ; Mobile = 6789012345; 
+Nationality = Indian ; Address1 = C-404, ithum tower ; Address2 = Sector-62 ; 
+City = Shimla ; Postal Code = 201001 ; State = HimanchalPradesh; Singapore ; Pin = 678345
+)
+
+
+(
+nric number = wowtest5; 
+salutation = Mr. ; firstname = rajat ; lastname = singh ; Gender = male ; 
+DOB = 25/10/2005 ; email = ayush5test.2022@gmail.com ; Mobile = 5678901234; 
+Nationality = Indian ; Address1 = C-405, ithum tower ; Address2 = Sector-62 ; 
+City = Rajkot ; Postal Code = 201005 ; State = Gujrat ; Singapore ; Pin = 567234
+)
+
+
+(
+nric number = wowtest6; 
+salutation = Mr. ; firstname = swati ; lastname = gupta; Gender = Female ; 
+DOB = 26/01/2006 ; email = ayush6test.2022@gmail.com ; Mobile = 4567890123; 
+Nationality = Indian ; Address1 = C-406, ithum tower ; Address2 = Sector-62 ; 
+City = Faridabad ; Postal Code = 201006 ; State = Haryana ; Singapore ; Pin = 456123
+)
